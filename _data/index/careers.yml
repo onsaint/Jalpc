@@ -1,16 +1,5 @@
 # careers section data
 # if you don't have language feature(language.yml is empty), ignore "i18n" items
-- name:
-    detail: University of Nebraska-Lincoln
-  desc:
-    detail: Integrated hardware/software system design. Increasingly, deiverse systems, products and processes depend on computers for 
-    design, control, data acquisition, and other functions. Coding with multiple languages, Data Structures and Algorithm,
-    Numerical Analysis and lots of maths.
-  date:
-    detail: Aug. 2016 - Present
-  job:
-    detail: Computer Engineer, Undergraduate
-  icon: fa-plus-square
 
 - name:
     detail: C Programming Helper
@@ -21,4 +10,16 @@ Achieve a deeper understanding of the materials by teaching others in a logical,
     detail: Jan. 2017 - Present
   job:
     detail: Undergraduate Teaching Assistant
+  icon: fa-plus-square
+
+- name:
+    detail: University of Nebraska-Lincoln
+  desc:
+    detail: Integrated hardware/software system design. Increasingly, deiverse systems, products and processes depend on computers for 
+    design, control, data acquisition, and other functions. Coding with multiple languages, Data Structures and Algorithm,
+    Numerical Analysis and lots of maths.
+  date:
+    detail: Aug. 2016 - Present
+  job:
+    detail: Computer Engineer, Undergraduate
   icon: fa-plus-square
